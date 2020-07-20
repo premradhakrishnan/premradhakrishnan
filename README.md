@@ -6,6 +6,7 @@
 
 💬 Ask me about Scrum, Azure, SQL, .Net Core or Power BI
 
+- 🏃 I work at SSW - https://www.ssw.com.au/people/prem-radhakrishnan
 - 🔭 I’m currently working on some test cases using Azure Form Recognizer and Data Factory
 - 🌱 I’m currently learning as much Azure as possible
 - 🤔 I’m looking for help with time management
