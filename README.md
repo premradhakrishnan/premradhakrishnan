@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with time management
 - 📫 How to reach me: @prem_rad
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am keeping away from Facebook. Ask me why.
+- ⚡ Fun fact: I love solving 9 letter anagrams.
 
 Cheers
 Prem
