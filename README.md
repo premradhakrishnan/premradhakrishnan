@@ -16,3 +16,5 @@
 
 Cheers
 Prem
+
+[![Prem's github stats](https://github-readme-stats.vercel.app/api?username=premradhakrishnan&theme=dark)](https://github.com/premradhakrishnan/github-readme-stats)
