@@ -10,9 +10,10 @@
 - 🔭 I’m currently working on some test cases using Azure Form Recognizer and Data Factory
 - 🌱 I’m currently learning as much Azure as possible
 - 🤔 I’m looking for help with time management
-- 📫 How to reach me: @prem_rad
+- 📫 How to reach me: @radprem
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love solving 9 letter anagrams.
+- 🔮 My blog - https://premradhakrishnan.github.io/
 
 Cheers
 Prem
