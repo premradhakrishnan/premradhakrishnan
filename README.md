@@ -4,11 +4,11 @@
 **premradhakrishnan/premradhakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-💬 Ask me about Scrum, Azure, SQL, .Net Core or Power BI
+💬 Ask me about Scrum, Snowflake, SQL, .Net Core or Power BI
 
-- 🏃 I work at SSW - https://www.ssw.com.au/people/prem-radhakrishnan
-- 🔭 I’m currently working on some test cases using Azure Form Recognizer and Data Factory
-- 🌱 I’m currently learning as much Azure as possible
+- 🏃 I work at CEnet - [https://cenet.catholic.edu.au](https://cenet.catholic.edu.au/)
+- 🔭 I’m currently working on some AI POCs
+- 🌱 I’m currently learning as much AI ML Snowflake as possible
 - 🤔 I’m looking for help with time management
 - 📫 How to reach me: @radprem
 - 😄 Pronouns: He/him
